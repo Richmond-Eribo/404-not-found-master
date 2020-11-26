@@ -35,13 +35,13 @@
 ![Screenshot](https://user-images.githubusercontent.com/49090616/100394688-59585980-303e-11eb-8173-f7ffa73ccbcc.PNG)
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
+<!--Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
+<!--
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
-
+- Your wisdom? :) 
+-->
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
