@@ -67,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [Richmond-Eribo](https://github.com/Richmond-Eribo)
-- Twitter [@your-twitter](https://https://twitter.com/_Rixchy)
+- Twitter [Richmond](https://https://twitter.com/_Rixchy)
